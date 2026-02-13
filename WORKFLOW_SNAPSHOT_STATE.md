@@ -3,7 +3,7 @@
 ## Identity
 repo: CORE
 branch: main
-timestamp: 2026-02-13T07:24:00Z
+timestamp: 2026-02-13T07:53:32Z
 
 ## Current pointer
 phase: Governance baseline
@@ -35,4 +35,10 @@ protocol_semantic_en: neutral
 - protocol_version: v1.0.0
 - last_sync_commit: 7eadfe9
 - branch: main
+- git_status: ## main...origin/main
+
+## Governance Sync
+- 2026-02-13 07:53 UTC — core-remediation-phase3-reseed-v1
+- source_sot_commit: 32d6fed
+- clone_path: /home/architit/work/CORE_RECLONE_CLEAN
 - git_status: ## main...origin/main
